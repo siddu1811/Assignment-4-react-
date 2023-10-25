@@ -1,0 +1,57 @@
+/* App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.errors {
+  margin-top: 20px;
+}
+
+.errors p {
+  color: red;
+  margin: 5px 0;
+}
+
+.red-text {
+  color: red;
+}
+
+.corrected-text {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.output-text {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+/* Add more styles as needed */
